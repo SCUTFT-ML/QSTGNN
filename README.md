@@ -26,7 +26,7 @@ Download the PEMSD7(M) dataset from [Baidu Yun](https://pan.baidu.com/s/1LnSH69C
     ├── qgnn    
     ├── result    
     ├── save    
-    │   └── unit                
+    │   └── ...              
     └── ...
 # run code
 ## Model Training, example
